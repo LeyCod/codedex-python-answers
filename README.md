@@ -10,3 +10,4 @@ This were my solutions to the exercises that are currently on the platform.
 2. variables
 3. control_flow
 4. loops
+5. lists
